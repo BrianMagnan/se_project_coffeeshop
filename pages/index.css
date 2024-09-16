@@ -111,7 +111,7 @@ margin: 0 0 80px;
   justify-content: center;
   gap: 100px;
   list-style-type: none;
-  margin: none;
+  margin: 0;
 
   .recipes__video-caption{
     display: flex;
