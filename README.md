@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add your ideas here :
+
+The website could be improved by adding a section to the menu where customers could place online orders for pickup.
